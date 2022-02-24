@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import ta 
 
-api_key = 'OP46t00GHZ3c505N9Ne9l1u92CQ4Vquk43y4844bC2toKblnuI0cM8dkYeTha9ZK'
-secret_key = 'OJj37klrLOfD6T7E08lR0nWseH44CNP3meyoIwVWZRxMeopeE9R0BRfGsQ01Tiyd'
+api_key = 'OP46t00GHZ3c505N9Ne9l1u92CQ4Vquk43peney4844bC2toKblnuI0cM8dkYeTha9ZK'
+secret_key = 'OJj37klrLOfD6T7E08lR0nWseH44CNP3penemeyoIwVWZRxMeopeE9R0BRfGsQ01Tiyd'
 
 client = Client(api_key,secret_key)
 
